@@ -5,6 +5,7 @@
   - Section 3: schrimpf@mail.ubc.ca
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
+
 ## Course Overview
 This is a course introducing the computational and data science tools used in modern economics.
 
@@ -13,6 +14,8 @@ data and making numerical calculations/simulations of models in economics.
 
 The class will focus on practical experience with economics-focused tools and is not
 intended as a replacement for Computer Science or Statistics courses.
+
+Class will be held online, using Collaborate Ultra through Canvas.
 
 ## Course Materials and Communications
 All materials will be provided online:
