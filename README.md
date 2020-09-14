@@ -17,7 +17,7 @@ If possible, please bring a laptop to class to interactively discuss the materia
 
 ## Teaching Assistant
 - Daniel Jaramillo Calderon
-- Office Hours: TBA
+- Office Hours: Thursdays 11am - 12pm
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
