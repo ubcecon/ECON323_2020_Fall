@@ -1,11 +1,11 @@
 ## Lectures and Notebooks
 1. **September 9th** -  Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
-2. **September 14th** - [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and start [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
-3. **September 16th** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
-4. **September 21st** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
-5. **September 23rd** -  [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
-6. **September 28th** - Finish [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications, and start [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
-7. **September 30th** -  PS2 review, [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html), [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+2. **September 14th** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
+3. **September 16th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
+4. **September 21st** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
+5. **September 23rd** - Finish [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications, and start [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
+6. **September 28th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
+7. **September 30th** -  PS2 review, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **October 5th** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **October 7th** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **October 12th** - Thanksgiving
