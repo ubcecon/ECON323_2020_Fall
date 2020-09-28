@@ -3,10 +3,10 @@
 2. **September 14th** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
 3. **September 16th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
 4. **September 21st** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
-5. **September 23rd** - Finish [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) and Production Function applications, and start [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
-6. **September 28th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
-7. **September 30th** -  PS2 review, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
-8. **October 5th** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+5. **September 23rd** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
+6. **September 28th** - [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+7. **September 30th** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+8. **October 5th** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **October 7th** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **October 12th** - Thanksgiving
 11. **October 14th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
