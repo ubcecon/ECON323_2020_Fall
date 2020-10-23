@@ -31,6 +31,7 @@
 3. Due **October 1st** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html) 
 4. Due **October 8th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6 
 5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html) 
+6. Due **October 29th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - Only questions 1-7 and 9-10.
 <!-- 6. Due **November 16th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) only questions 9 & 10, and [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html) -->
 <!-- 7. Due **April 6th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/ECON323_2020/blob/master/extra_notebooks/covid-prediction.ipynb) -->
 
