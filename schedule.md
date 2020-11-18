@@ -19,7 +19,7 @@
 18. **November 9th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 19. **November 11th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
 20. **November 16th** - [Classification](https://datascience.quantecon.org/applications/classification.html)
-21. **November 18th** - [Mapping](https://datascience.quantecon.org/applications/mapping.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
+21. **November 18th** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
 22. **November 23th** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
 23. **November 25th** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 24. **November 30th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
